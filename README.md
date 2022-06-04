@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kallol-sarker
-- 👀 I’m interested in web designing and programming..
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in SQA position.
+- 🌱 I’m currently learning/revised programming languages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - You can reach me on whatsapp- +8801913-903626
